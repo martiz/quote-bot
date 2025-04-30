@@ -1,0 +1,746 @@
+The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
+-- Bertrand Russell
+
+wir schreiben alles klein, denn wir sparen damit zeit. außerdem: warum 2 alphabete, wenn eins dasselbe erreicht? warum groß schreiben, wenn man nicht groß sprechen kann?
+-- bauhaus dessau (1925)
+
+Die Träume von gestern sind die Hoffnung von heute und die Realität von morgen.
+(For the dream of yesterday is the hope of today and the reality of tomorrow.)
+-- unknown
+
+Jede Vision ist ein Witz, bis der erste Mensch sie verwirklicht!
+(Every vision is a joke until the first man accomplishes it.)
+-- Robert H. Goddard
+
+Freundschaft ist eine Tür zwischen Menschen. Sie kann manchmal knarren, sie kann klemmen, aber sie ist nie verschlossen.
+-- Balthasar Gracián y Morales
+
+Glück entsteht oft durch Aufmerksamkeit in kleinen Dingen, Unglück oft durch Vernachlässigung kleiner Dinge.
+-- Wilhelm Busch
+
+A delayed game is eventually good, but a rushed game is forever bad.
+-- Shigeru Miyamoto
+
+Anyone who cannot cope with mathematics is not fully human. At best he is a tolerable subhuman who has learned to wear shoes, bathe and not make messes in the house.
+-- Robert Heinlein
+
+Nur die Toten kennen das Ende des Krieges.
+-- Plato
+
+Wer nicht zeitlebens gewissermaßen ein großes Kind bleibt,
+sondern ein ernsthafter, nüchterner, durchweg gesetzter und vernünftiger Mann wird,
+kann ein sehr nützlicher und tüchtiger Bürger dieser Welt sein, nur nimmermehr ein Genie.
+-- Arthur Schopenhauer
+
+Mein größtes Talent? Das müssen die Kritiker entscheiden, die müssen schließlich auch etwas zu tun haben.
+-- Peter Ustinov
+
+Wer morgens zerknittert aussieht, hat tagsüber die besseren Entfaltungsmöglichkeiten.
+-- Merten Kuna (Student aus HS Harz, 2007)
+
+First they ignore you, then they laugh at you, then they fight you, then you win.
+-- Gandhi
+
+Wenn ein Kapitän nicht weiß, welches Ufer er ansteuern soll, ist kein Wind der richtige.
+-- Seneca
+
+The only thing necessary for the triumph of evil is for good men to do nothing.
+-- Edmund Burke
+
+Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+-- Marcus Aurelius
+
+We're not God. Not only are our powers limited, we sometimes are driven to become the devil himself.
+-- Wolfwood
+
+Es irrt der Mensch solang er strebt.
+-- Johann Wolfgang v. Goethe
+
+To err is human - and to blame it on a computer is even more so.
+-- Found: "http://shell-shocked.org/"
+
+If your going through hell keep going.
+-- Winston Churchill
+
+Do or do not there is no try.
+-- Yoda
+
+Half of writing history is hiding the truth.
+-- Cpt. Reynolds (from the movie "Serenity")
+
+One of the advantages of being Captain is being able to ask for advice without necessarily having to take it.
+-- Cpt. Kirk
+
+Life was simple before World War II. After that, we had systems.
+It's always easier to ask forgiveness than it is to get permission.
+A ship in port is safe; but that is not what ships are built for. Sail out to sea and do new things.
+At the end of about a week, I called back and said, "I need something to compare this to. Could I please have a microsecond?"
+From then on, when anything went wrong with a computer, we said it had bugs in it.
+If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission.
+In total desperation, I called over to the engineering building, and I said, "Please cut off a nanosecond and send it over to me."
+I've always been more interested in the future than in the past.
+Nobody believed that I had a running compiler and nobody would touch it. They told me computers could only do arithmetic.
+The wonderful thing about standards is that there are so many of them to choose from.
+The most dangerous phrase in the language is, "We've always done it this way."
+To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge.
+On COBOL: "But Grace, then anyone will be able to write programs!"
+-- Grace Hopper
+
+Man sieht nur mit dem Herzen gut, das wesentliche ist für die Augen unsichtbar.
+-- Antoine St. Exupéry
+
+Singularis porcus. Gehört zur Gattung der dickhäutigen paarhufigen Säugetiere, in Gallien heimisch und ungeheuer wohlschmeckend! Eben Wildschwein!
+-- Obelix in "Asterix XXVI, Die Odyssee"
+
+It doesn't matter if people are interested. It's about you taking your stuff and shouting out into the void.
+-- Jadelr and Cristina Cordova [http://chasingmills.blogspot.com/]
+
+A strange game. The only winning move is not to play.
+-- Joshua to "Global Thermonuclear War" in "WarGames" (movie, 1983)
+
+Humanity must put an end to war or war will put an end to humanity.
+-- John F. Kennedy
+
+Every gun that is made, every warship launched, every rocket fired signifies in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed. This world in arms is not spending money alone. It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children. This is not a way of life at all in any true sense. Under the clouds of war, it is humanity hanging on a cross of iron.
+-- Dwight Eisenhower, April 16th 1953
+
+Schlau ist, lieber drei mal blöd zu fragen, als am Ende des Tages Qutasch produziert zu haben.
+-- (Autor unbekannt)
+
+Money can't buy happiness, but neither can poverty.
+If at first you don't succeed, before you try again, stop to figure out what you did wrong.
+-- Leo Rosten
+
+If you are doing something the same way you have been doing it for the last 10 years, the chances are you are doing it wrong.
+-- Charles F. Kettering (1876-1958)
+
+Erster Journalistenregel: Schlaf, wenn Du kannst.
+-- Mick Schnelle (Spielejournalist)
+
+Aus Lügen, die wir glauben, werden Wahrheiten mit denen wir leben.
+-- (Autor unbekannt)
+
+Eine Maschine kann die Arbeit von 50 gewöhnlichen Menschen leisten, aber sie kann nicht einen einzigen außergewöhnlichen ersetzen
+-- (Autor unbekannt)
+
+Die Welt wird nicht bedroht von den Menschen, die böse sind, sondern von denen, die das Böse zulassen.
+-- Albert Einstein
+
+In these matters the only certainty is that nothing is certain.
+-- Pliny the Elder (dt.: Plinius der Ältere)
+
+Der wahre Reisende kennt nicht sein Ziel.
+-- Konfuzius
+
+I'll be more enthusiastic about encouraging thinking outside the box when there's evidence of any thinking going on inside it.
+Always be wary of any helpful item that weighs less than its operating manual.
+Stupid men are often capable of things the clever would not dare to contemplate...
+Geography is just physics slowed down, with a couple of trees stuck in it.
+There are, it has been said, two types of people in the world. There are those who, when presented with a glass that is exactly half full, say: this glass is half full. And then there are those who say: this glass is half empty. The world belongs, however, to those who can look at the glass and say: What's up with this glass? Excuse me? Excuse me? This is my glass? I don't think so. My glass was full! And it was a bigger glass!
+-- Terry Pratchett
+
+Impossible is a word only to be found in the dictionary of fools.
+-- (Autor unbekannt)
+
+A biometric password is the only password you CAN’T change when it is compromised.
+-- (Autor unbekannt)
+
+Nett = Lächelnde Schwester von "Scheisse"
+-- Flix (Comiczeichner)
+
+Silence is better than unmeaning words.
+-- Pythagoras
+
+The universe is made of stories, not of atoms.
+-- Muriel Rukeyser
+
+Beim Spiel kann man einen Menschen in einer Stunde besser kennenlernen
+als im Gespräch in einem Jahr.
+-- Platon
+
+Der vernünftige Mensch paßt sich der Welt an; der unvernünftige besteht
+auf dem Versuch, die Welt sich anzupassen. Deshalb hängt aller Fortschritt
+vom unvernünftigen Menschen ab.
+-- George Bernard Shaw
+
+Never argue with an idiot -- they drag you down to their level, then beat
+you with experience.
+-- (Autor unbekannt)
+
+War is God's way of teaching Americans geography.
+-- Ambrose Bierce
+
+To avoid situations in which you might make mistakes may be the biggest
+mistake of all.
+-- Peter McWilliams
+
+Arbeit ist etwas Unnatürliches. Faulheit allein ist göttlich.
+-- Anatole France
+
+Fuer die einen ist's Windows, für die anderen ist's die größte Bug-Sammlung der Welt.
+-- (Autor unbekannt)
+
+Hacking: Martial art - a way of defending against politically correct politicians, overly intrusive laws, bigots and narrow-minded people of all persuasions.
+-- Judith Milhon a.k.a "St. Jude"
+
+Das Glück deines Lebens hängt von der Beschaffenheit deiner Gedanken ab.
+-- Marc Aurel
+
+Every project is a voyage from idea to realization. There is an ocean of compromise in the middle.
+-- Bruce Sterling
+
+Wer die Praxis übt, ohne sich mit der Theorie beschäftigt zu haben, gleicht einem Schiff ohne Steuermann.
+-- Leonardo da Vinci
+
+My definition of an expert in any field is a person who knows enough about what's really going on to be scared.
+-- P. J. Plauger, Computer Language, March 1983
+
+Diskussion = Der Übungsplatz des Geistes.
+-- Richard Wiggins
+
+Kinder und Narren sagen die Wahrheit.
+-- (Autor unbekannt)
+
+As we enjoy great advantages from inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously.
+-- Benjamin Franklin
+
+Never argue with an idiot - they drag you down to their level, then beat you with experience.
+-- (Autor unbekannt)
+
+Use your options and stand your ground.
+-- (Autor unbekannt)
+
+Dinosaurs aren't extinct. They've just learned to hide in the trees.
+-- (Autor unbekannt)
+
+The degree of civilization in a society can be judged by entering its prisons.
+-- Dostoevsky
+
+Your mouth is talking. You might wanna look to that.
+-- (Autor unbekannt)
+
+What can change the nature of a man? --	You awake in the Mortuary. Your body is scarred and a damn novel is written on your back. You don't remember anything. The only "alive" person you see is the chatty skull called Morte (not counting those shuffling zombies, you're smart enough to know they are dead.) Now it's time to go and find out what the hell is going on.
+-- found from the computer game called "Planescape: Torment"
+
+Minds are like parachutes. They only function if they are open.
+-- Sir James Dewar
+
+Patriotismus ist die letzte Zuflucht der Schurken.
+-- Samuel Johnson
+
+To love at all is to be vulnerable. Love anything and your heart will certainly be wrung and possibly be broken. If you want to make sure of keeping it intact, you must give your heart to no one, not even to an animal. Wrap it carefully around with hobbies and little luxuries ... lock it up safe in the casket or coffin of your selfishness.
+But in that casket - safe, dark, motionless, airless - it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable ... The only place outside heaven where you can be perfectly safe from all the dangers of love is hell!
+Why love if losing hurts so much? We love to know that we are not alone.
+-- C. S. Lewis
+
+Ein Problem ist nur dann ein Problem, wenn man keine Lösung hat.
+-- Georg Wilhelm Friedrich Hegel (oder H. P. Baxxter?)
+
+In archaeology you uncover the unknown. In diplomacy you cover the known.
+-- Thomas Pickering
+
+On my income tax 1040 it says 'Check this box if you are blind.' I wanted to put a check mark about three inches away.
+-- Tom Lehrer
+	
+Think like a wise man but communicate in the language of the people.
+-- William Butler Yeats
+
+Romance is the currency you buy sex with.
+-- (Autor unbekannt)
+
+This post is made "AS IS" without warranties and confers no rights.
+-- (Autor unbekannt)
+
+Rehabilitation durch erholsamer Abwesenheit (= Amtsdeutsch für Urlaub)
+-- Martin N.
+
+Nothing is illegal if one hundred businessmen decide to do it.
+-- Andrew Young
+
+Good things come in small packages.
+-- (Autor unbekannt)
+
+Nur wer erwachsen wird und ein Kind bleibt ist ein Mensch!
+-- Erich Kästner
+
+Je korrupter der Staat ist, desto mehr Gesetze braucht er.
+-- Publius Cornelius Tacitus
+
+Aus einer Niederlage kann man nur dann geschwächt hervorgehen, wenn man nicht wenigstens versucht hat zu kämpfen.
+-- Eric Zabel
+
+Those who can, do. Who can't, teach.
+-- ...from the movie "..." with Billy Bob Thornton
+
+When you doubt your power, you give power to your doubt.
+-- Honore de Balzac
+
+Gesunde Kompromisse machen aus Konflikten chronische Krankheiten.
+-- Johann Wolfgang von Goethe
+
+Eine gute Idee erkennt man daran, daß sie geklaut wird.
+-- Rudi Carrell
+
+Die Armut hat ihre Freiheiten, der Reichtum seine Zwänge.
+-- Denis Diderot (a.k.a. Voltaire)
+
+Wie viele Freuden werden zertreten, weil die Menschen meist nur in die Höhe gucken und, was zu ihren Füßen liegt, nicht achten.
+-- Katharina Elisabeth Goethe
+
+Wenn man einen Menschen bessern will, muß man ihn erst einmal respektieren.
+-- Romano Guardin
+
+Wenn alle Menschen immer die Wahrheit sagten, wäre das die Hölle auf Erden.
+-- Jean Gabin
+
+Wer sich an andere hält, dem wankt die Welt. Wer auf sich selber ruht, steht gut.
+-- Paul Heyse
+
+Es ist schwieriger, eine vorgefasste Meinung zu zertrümmern als ein Atom.
+-- Albert Einstein
+
+Weder Krieger noch Mönche nähren ein Land.
+-- Johann Gottfried Herder
+
+Intellectual growth should commence at birth and cease only at death.
+-- Albert Einstein
+
+The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.
+-- H.P. Lovecraft
+
+You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+-- Buckminster Fuller
+
+Never doubt that a small group of committed citizens can change the world.
+-- Margaret Mead
+
+Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend.
+-- Albert Camus
+
+Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+-- Mark Twain
+
+First they ignore you, then they laugh at you, then they fight you, then you win.
+-- Unknown
+
+Diejenigen, die bereit sind grundlegende Freiheiten aufzugeben, um ein wenig kurzfristige Sicherheit zu erlangen, verdienen weder Freiheit noch Sicherheit.
+-- Benjamin Franklin
+
+Wichtig ist, dass man nicht aufhört zu fragen.
+-- Albert Einstein
+
+Wenn Unrecht zu Recht wird, wird Widerstand zur Pflicht!
+-- Bertolt Brecht
+
+Hackers have a mind that's optimized for discovery.  They have a mind for figuring out what's possible.
+-- Pablos Holman
+
+The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
+-- Bertrand Russell
+
+Twenty years from now you will be more disappointed by the things that
+you didn't do than by the ones you did do. So throw off the bowlines.
+Sail away from the safe harbor. Catch the trade winds in your sails.
+Explore. Dream. Discover.
+-- Mark Twain
+
+Die NASA gab 1 Million Dollar für die Entwicklung eines Kugelschreibers aus,
+der auch im Weltraum funktionieren sollte. Die Russen benutzten Bleistifte.
+-- unbekannt
+
+Liebe ist immer noch die anständigste Entschuldigung für Dummheiten.
+-- Heiner Geißler
+
+Time waits for no man, but death is waiting for everybody.
+-- unbekannt
+
+A customer is the most important visitor on our premises.
+He is not dependent on us. We are dependent on him.
+He is not an interruption in our work - he is the purpose of it.
+We are not doing him a favour by serving him. He is doing us a favour by giving us the opportunity to serve him.
+-- Mahatma Gandhi
+
+Es geht nicht darum, dem Leben mehr Tage zu geben, sondern den Tagen mehr Leben.
+-- Cicely Saunders
+
+Kermit ist ein alter gälischer Name, der übersetzt "freier Mann" bedeutet.
+-- unbekannt
+
+Ich muß nicht unbedingt gewinnen, aber ich muß ehrlich sein. Ich muß nicht unbedingt erfolgreich sein, aber ich muß nach dem Licht streben, das in mir ist.
+-- Abraham Lincoln
+
+Geh nicht immer auf dem vorgezeichneten Weg, der nur dahin führt, wo andere bereits gegangen sind.
+-- Alexander Graham Bell
+
+Lache nicht vorschnell über jemanden, der einen Schritt zurückgeht!
+Er nimmt vielleicht nur Anlauf.
+-- Sophronius Eusebius Hieronymus
+
+Would I rather be feared or loved? Easy, both. I want people to be afraid of how much they love me.
+-- Michael Scott (portrayed by Steve Carell, from 'The Office')
+
+Wir sind so gewöhnt, uns vor anderen zu verstellen, dass wir uns am Ende vor uns selbst verstellen.
+-- F. Rochefoucauld
+
+We are buried beneath the weight of information, which is being confused with knowledge; quantity is being confused with abundance and wealth with happiness.
+We are monkeys with money and guns.
+-- Tom Waits
+
+The more we study, the more we discover our ignorance.
+-- [Percy Bysshe Shelley](https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley)
+
+Verlierer hören auf, wenn sie scheitern. Gewinner scheitern bis sie Erfolg haben.
+-– Robert Kiyosaki
+
+Life is like traffic signals. Sometimes you miss opportunities and sometimes you rush in and get into an accident. But with patience all lights will be green.
+-- Unknown (found by Bao Ha)
+
+Fools multiply when wise men are silent.
+-- Nelson Mandela
+
+A man chooses, a slave obeys.
+-- Andrew Ryan (fictional character from BioShock)
+
+Glaubt nicht, Ihr hättet Millionen Feinde. Eurer einziger Feind heißt Krieg.
+-- Erich Kästner
+
+Die gefährlichste Weltanschauung ist die Weltanschauung derjenigen, die die Welt nie angeschaut haben.
+-- Alexander von Humboldt
+
+Halte dich fern von denjenigen, die versuchen, deinen Ehrgeiz herabzusetzen. Kleingeister tun das immer, aber die wirklich Großen geben dir das Gefühl, dass auch du selbst groß werden kannst.
+-- Mark Twain
+
+Motivation is what gets you started. Habit is what helps you keep going.
+-- Unknown
+
+Your willingness to look at your darkness is what empowers you to change.
+-- Unknown
+
+Alles hat seinen Preis, besonders die Dinge, die nichts kosten.
+-- Art van Rheyn
+
+Unterschätze nie die Macht dummer Leute, die einer Meinung sind.
+-- Kurt Tucholsky
+
+Fallen ist weder gefährlich, noch eine Schande. Liegenbleiben ist beides.
+-- Konrad Adenauer
+
+Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.
+-- Francis of Assisi
+
+Wer etwas will, findet Wege. Wer etwas nicht will, findet Gründe.
+-- Dalai Lama
+
+Life is like Tetris. As soon as you try to fit in you'll disappear.
+-- Nesrin Kozan
+
+Falls du glaubst, dass du zu klein bist, um etwas zu bewirken, dann versuch mal zu schlafen, wenn ein Moskito im Zimmer ist.
+-- Dalai Lama
+
+The problem with love these days is that society has taught the human race to stare at people with their eyes rather than their souls.
+-- Christopher Poindexter
+
+Nicht behindert zu sein ist wahrlich kein Verdienst, sondern ein Geschenk, das jedem von uns jederzeit genommen werden kann.
+-- Richard v. Weizsäcker
+
+Zuerst ignorieren sie dich, dann lachen sie über dich, dann bekämpfen sie dich und dann gewinnst du.
+-- Mahatma Gandhi
+
+Ich freue mich, wenn es regnet. Denn, wenn ich mich nicht freue, regnet es auch.
+-- Karl Valentin
+
+Im Grunde ist ein Diamant auch nur ein Stück Kohle, das die nötige Ausdauer hatte.
+-- Mirko Jachmann (?)
+
+Wenn du dich bei Kilometer 15 schlecht fühlst, steckst du in Schwierigkeiten. Wenn du dich bei Kilometer 35 schlecht fühlst, bist du normal. Wenn du dich bei Kilometer 42 nicht schlecht fühlst, solltest du dich fragen, ob du noch ganz richtig tickst.
+-- Rob de Castella
+
+You have not played as yet? Do not do so; above all avoid a martingale if you do.
+-- William Makepeace Thackeray
+
+Inflation is when you pay fifteen dollars for the ten-dollar haircut you used to get for five dollars when you had hair.
+-- Sam Ewing
+
+The resources required for trade are provided by lenders: without lenders, not a ship, not a ship-owner, not a traveler could put to sea.
+-- Demosthenes 34.51
+
+Stilles bescheidenes Leben gibt mehr Glück als erfolgreiches Streben, verbunden mit beständiger Unruhe.
+-- Albert Einstein, 1922, Tokio
+
+Wo ein Wille ist, da ist auch ein Weg.
+-- Albert Einstein, 1922, Tokio
+
+> http://www.spiegel.de/panorama/leute/albert-einstein-handschriftlicher-sinnspruch-fuer-millionenbetrag-versteigert-a-1174574.html
+
+Falls Gott die Welt erschaffen hat, dann war es offenbar nicht seine erste Sorge, uns ihr Verständnis leicht zu machen.
+-- Albert Einstein, an David Bohm, 1951-54
+
+Investing should be more like watching paint dry or watching grass grow. If you want excitement, take $800 and go to Las Vegas.
+-- Paul Samuelson
+
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. (Code for readability.)
+-- John F. Woods, 1991 (mistakenly quoted not by Martin Golding since 1994)
+> https://groups.google.com/forum/#!msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ
+
+The hate of men will pass, and dictators die, and the power they took from the people will return to the people. And so long as men die, liberty will never perish.
+-- Charlie Chaplin (from "The Dictator"?)
+
+Als ich das Licht der Welt und sodann die Hebamme erblickte, war ich sprachlos. Ich hatte diese Frau ja noch nie in meinem Leben gesehen.
+-- Karl Valentin
+
+Kunst ist schön, macht aber viel Arbeit.
+-- Karl Valentin
+
+Jedes Ding hat drei Seiten, eine positive, eine negative und eine komische.
+-- Karl Valentin
+
+Man soll die Dinge nicht so tragisch nehmen, wie sie sind.
+-- Karl Valentin
+
+Der Mensch is guad, de Leit' san schlecht!
+-- Karl Valentin
+
+Es ist schon alles gesagt, nur noch nicht von allen.
+-- Karl Valentin
+
+Fremd ist der Fremde nur in der Fremde.
+-- Karl Valentin
+
+Ich bin kein direkter Rüpel, aber die Brennnessel unter den Liebesblumen.
+-- Karl Valentin
+
+Alle reden vom Wetter, aber keiner unternimmt was dagegen.
+-- Karl Valentin
+
+Sie wissen ja: Sie sind auf uns nicht angewiesen, sondern wir auf Sie. Merken's Ihnen des!
+-- Karl Valentin
+
+Die Zukunft war früher auch besser.
+-- Karl Valentin
+
+Every time I did a bad thing, I felt that life became a little better.
+-- Ren Hang, 2015-03-23
+
+The most effective way to do it, is to do it.
+-- Amelia Earhart
+
+The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+-- Stephen Hawking (1942/01/08 - 2018/03/14)
+
+Wenn wir bedenken, dass wir alle verrückt sind, ist das Leben erklärt.
+-- Mark Twain
+
+If you love it, you'll teach yourself. If you don't love it, others teach you.
+-- Yukitaka Yamaguchi ("Tuna King" at Tsukiji fish market)
+
+Non è necessario avere una religione per avere un morale. Perché se non si riesce a distinguere il bene dan male, quella che manca è la sensibilità, non la religione.
+(it is not necessary to have a religion to have a moral. Because if you can not distinguish good from bad, what is lacking is sensitivity, not religion.)
+-- Margherita Hack 
+
+Bescheidenheit ist der Anfang aller Vernunft.
+-- Elizabeth von Arnim (eigentlich: Mary Annette Beauchamp)
+
+Der Kuss ist ein liebenswerter Trick der Natur, ein Gespräch zu unterbrechen, wenn Worte überflüssig werden.
+-- Ingrid Bergman
+
+Wenn Privatsphäre für illegal erklärt wird, haben nur noch Gesetzlose Privatsphäre.
+-- Philip Zimmerman
+
+My secret is making the wrong choices, but committing completely.
+-- Jim Carrey (on a Bill Maher show / 2018-09-07)
+
+There is no porn in Middle-Earth.
+-- George R. R. Martin (2018-11-21 on Late Show with Stephen Colbert)
+
+[TV critics and restaurant critics are] both cut from the same cloth. Because they’re both standing there, staring at you, wishing they could be you.
+-- Gordon Ramsay
+
+Nearly all men can stand adversity, but if you want to test a man’s character, give him power.
+-- Abraham Lincoln
+
+Your abilities of conflict management will be shown when a bee is landing on your scrotum.
+-- unknown
+
+Everyone loves treason, but nobody loves the traitor.
+-- Tokugawa Iiyasu
+
+You should not neglect the serpent simply because it has no horns.  For no one can say if she will not become a mighty dragon once, just as a man can become a whole army.
+-- unknown
+
+A society grows great when old men plant trees whose shade they know they shall never sit in.
+-- unknown (greek proverb?)
+
+The Perfect is the enemy of the good.
+-- Voltaire
+
+American politics is a hysterical comedy with life threatening consequences.
+-- John Cleese
+
+During times of universal deceit, telling the truth becomes a revolutionary act.
+―- George Orwell
+
+Consent is only meaningful when it is informed and [the government] lied to us.
+-- Edward Snowden
+
+Ich glaube nicht an ewiges Wachstum. Irgendwann wird der Kapitalismus am Ende sein.
+-- Mario Adorf
+
+No deity will save us; we must save ourselves.
+-- Humanist Manifesto II
+
+Service to others is the rent you pay for your room here on Earth.
+-- Muhammad Ali
+
+There comes a time when silence becomes a betrayal.
+-- Martin Luther King Jr.
+
+Der größte Feind der Qualität ist die Eile.
+-- Toni Kroos
+
+This is not philanthropy. This should be a cost of doing business. It's paying rent for our use of the planet.
+-- Yvon Chouinard
+
+Eternal vigilance is the price of liberty.
+-- Thomas Jefferson
+
+Politicians and diapers must be changed often, and for the same reason.
+-- unknown
+
+A path opens to those who are honest.
+-- Japanese proverb
+
+Son, sometimes you have to be a lion so you can be the lamb you really are.
+-- Dave Chappelle's mom
+
+Make your own Bible. Select and collect all the words and sentences that in all your readings have been to you like the blast of a trumpet.
+-- Ralph Waldo Emerson
+
+It's not whether you get knocked down, it's whether you get up.
+-- Vince Lombardi
+
+Today's accomplishments were yesterday's impossibilities.
+-- Robert H. Schuller
+
+ Damit das Mögliche entsteht, muss immer wieder das Unmögliche versucht werden.
+-- Hermann Hesse
+
+Friendship multiplies the good of life and divides the evil.
+-- Baltasar Gracián
+
+It is said that no one truly knows a nation until one has been inside its jails. A nation should not be judged by how it treats its highest citizens, but its lowest ones.
+-- Nelson Mandela
+
+The degree of civilization in a society can be judged by entering its prisons.
+-- Fyodor Dostoevsky
+
+Wenn Dir klar wird, wie schnell Menschen die Toten vergessen, wirst Du aufhören, Dein Leben damit zu verbringen, andere beeindrucken zu wollen.
+-- Christopher Walken
+
+Das Einzige, was zwischen dir und deinem Erfolg steht, sind die Ausreden, mit denen du dich ablenkst.
+-- unbekannt
+
+Macht Ernst mit euren schönen Worten, so wird das Paradies auf Erden sein.
+-- Paul de Lagarde
+
+Du bist nicht das, was du denkst, dass du bist, sondern du bist, was du denkst.
+-- Norman Vincent Peale
+
+So lange du glaubst, dass an allem immer die anderen schuld sind, wirst du leiden.
+-- Dalai Lama
+
+It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+-- Leonardo da Vinci
+
+You can, you should, and if you're brave enough to start, you will.
+-- Stephen King
+
+When you're born into this world, you're given a ticket to the freak show. If you're born in America, you get a front row seat.
+-- George Carlin
+
+Verbringe nicht die Zeit mit der Suche nach einem Hindernis. Vielleicht ist keines da.
+-- Franz Kafka
+
+Never go to bed mad. Stay up and fight.
+-- Phyllis Diller
+
+Viel zu viele Menschen haben Angst, dass sie sich zum Affen machen könnten.
+-- Henry Ford
+
+The easiest way to stop piracy is not by putting antipiracy technology to work. It's by giving those people a service that's better than what they're receiving from the pirates.
+-- Gabe Newell
+
+Nothing is impossible, the word itself says "I'm possible"!
+-- Audrey Hepburn
+
+Fehler sind große Chancen im Leben. Wir müssen sie nur als solche nutzen.
+-- Tom Hermanns
+
+Der ideale Tag wird nie kommen. Er ist heute, wenn wir ihn dazu machen.
+-- Horaz
+
+Erfolgreiche Leute haben kleine Fernseher und volle Bücherregale, Erfolglose haben große Fernseher und leere Bücherregale.
+-- [Zig Ziglar](https://en.wikipedia.org/wiki/Zig_Ziglar) (1926 - 2012)
+
+The only thing necessary for the triumph of evil is for good people to do nothing.
+-- [Alexei Navalny](https://de.wikipedia.org/wiki/Alexei_Anatoljewitsch_Nawalny) (1976 - 2024)
+
+Möge dein schlechtester Tag der Zukunft besser sein als dein bester der Vergangenheit.
+-- [Laotse](https://de.wikipedia.org/wiki/Laozi) (6. Jh. v. Chr.)
+
+Wir sind nicht nur verantwortlich, für das was wir tun, sondern auch für das, was wir nicht tun.
+-- [Molière](https://de.wikipedia.org/wiki/Moli%C3%A8re) (Jean-Baptiste Poquelin, 1622 - 1673)
+
+Wer mit Schlangen lästert und mit Hyänen schreit - wird nie verstehen warum der Löwe schweigt.
+-- [Kianimus](https://www.instagram.com/kianimus/) (Adeel Raza Kiani)
+
+Wenn du ein Schiff bauen willst, dann trommle nicht Männer zusammen, um Holz zu beschaffen, Aufträge zu vergeben und Arbeit zu verteilen, sondern lehre sie die Sehnsucht nach dem weiten endlosen Meer.
+-- [Antoine de Saint-Exupéry](https://de.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry) (1900 - 1944)
+
+Wenn mein Kopf es sich ausdenken kann, wenn mein Herz daran glauben kann - dann kann ich es auch erreichen.
+-- [Muhammad Ali](https://de.wikipedia.org/wiki/Muhammad_Ali) (Cassius Marcellus Clay Jr., 1942 - 2016)
+
+Ich kann freilich nicht sagen, ob es besser werden wird, wenn es anders wird;
+aber soviel kann ich sagen, es muss anders werden, wenn es gut werden soll.
+-- [Georg Christoph Lichtenberg](https://de.wikipedia.org/wiki/Georg_Christoph_Lichtenberg) (1742 - 1799)
+
+Alles, was wir hören, ist eine Meinung, keine Tatsache. Alles, was wir sehen, ist eine Perspektive, keine Wahrheit.
+-- [Marcus Aurelius](https://de.wikipedia.org/wiki/Mark_Aurel)
+
+Have no fear of perfection - you'll never reach it.
+-- [Salvador Dalí](https://de.wikipedia.org/wiki/Salvador_Dal%C3%AD)
+
+Overconfidence is a slow and insidious killer.
+-- unknown narrator from [Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon) ([source](https://www.thegamer.com/darkest-dungeon-narrator-wayne-june-best-greatest-quotes-ranked/))
+
+The journey of a thousand miles begins with a single step.
+-- unknown
+
+[Nazis are...] Roomba[s] with a World War II chip in it. Just spinning around your living room bumping into furniture, just set to ethnic cleaning.
+-- [Steve Hofstetter](https://en.wikipedia.org/wiki/Steve_Hofstetter)
+
+Kill one man, and you are a murderer. Kill millions of men, and you are a conqueror. Kill them all, and you are a god.
+-- [Jean Rostand](https://en.wikipedia.org/wiki/Jean_Rostand) - *Thoughts of a Biologist* (1938)
+
+Es gibt nur zwei Tage im Jahr, an denen man nichts tun kann: gestern und morgen!
+-- Dalai Lama
+
+The environment is so full of television, party political broadcasts and advertising campaigns that you hardly need to do anything.
+-- [J. G. Ballard](https://en.wikipedia.org/wiki/J._G._Ballard)
+
+Niemand urteilt schärfer als der Ungebildete, er kennt weder Gründe noch Gegengründe.
+-- [Anselm Feuerbach](https://de.wikipedia.org/wiki/Anselm_Feuerbach) (1829 - 1880)
+
+Hohe Bildung kann man dadurch beweisen, dass man die kompliziertesten Dinge auf einfache Art zu erläutern versteht.
+-- [George Bernard Shaw](https://de.wikipedia.org/wiki/George_Bernard_Shaw) (1856 - 1950)
+
+Lernen ist wie Rudern gegen den Strom. Sobald man aufhört, treibt man zurück.
+-- [Benjamin Britten](https://de.wikipedia.org/wiki/Benjamin_Britten) (1913 - 1976)
+
+Bildung kommt von Bildschirm und nicht von Buch, sonst hieße es ja Buchung.
+-- [Dieter Hildebrandt]() (1927 - 2013)
+
+Wer aufhört zu lernen, ist alt. Er mag zwanzig oder achtzig sein.
+-- [Henry Ford](https://de.wikipedia.org/wiki/Henry_Ford) (1863 - 1947)
+
+Any darn fool can make something complex; it takes a genius to make something simple.
+-- Albert Einstein
