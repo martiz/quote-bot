@@ -49,10 +49,10 @@ def display_menu_and_get_choice(db_list):
     Returns:
         str: The filename chosen by the user, or None if invalid input/exit.
     """
-    print("\n--- Available Quote Databases ---")
+    print("\n=== Available Quote Databases ===")
     for i, db_name in enumerate(db_list, start=1):
         print(f"{i}. {db_name}")
-    print("-------------------------------")
+    print("  ---------------------------------")
 
     while True:
         try:
@@ -137,22 +137,27 @@ def get_random_quote_from_db(db_filename):
 def main():
     # 1. Find available databases
     available_databases = find_quote_databases()
+    num_databases = len(available_databases)
+    selected_db_file = None # Initialize variable
 
-    if not available_databases:
+    # 2. Decide action based on number of databases found
+    if num_databases == 0:
         print("No SQLite quote databases (.db, .sqlite, .sqlite3) found in the current directory.")
         print("Please run the conversion script first or place a database file here.")
         sys.exit(1)
-
-    # 2. Display menu and get user choice
-    selected_db_file = display_menu_and_get_choice(available_databases)
-
-    if selected_db_file is None:
-        # User chose to exit or input was invalid repeatedly
-        sys.exit(1)
-
+    elif num_databases == 1:
+        # Exactly one found, use it automatically
+        selected_db_file = available_databases[0]
+        print(f"Found one database: '{selected_db_file}'. Using it automatically.")
+    else:
+        # More than one found, display menu
+        selected_db_file = display_menu_and_get_choice(available_databases)
+        if selected_db_file is None:
+            # User chose to exit from the menu
+            sys.exit(1)
     print(f"\nUsing database: '{selected_db_file}'")
 
-    # 3. Get quote from the selected database
+    # 3. Get quote from the selected database (selected_db_file is now set)
     quote, count = get_random_quote_from_db(selected_db_file)
 
     # 4. Process and display the quote (if found)
@@ -167,7 +172,9 @@ def main():
             print("Error: BOX_WIDTH is too small to display text.")
             sys.exit(1)
 
-        border = "+" + "-" * (BOX_WIDTH - 2) + "+"
+        # border = "+" + "-" * (BOX_WIDTH - 2) + "+"
+        border_top = "┌" + "─" * (BOX_WIDTH - 2) + "┐"
+        border_bottom = "└" + "─" * (BOX_WIDTH - 2) + "┘"
 
         # Wrap text
         original_lines = cleaned_quote.split('\n')
@@ -187,11 +194,13 @@ def main():
                 wrapped_lines.extend(wrapped)
 
         # Print boxed quote
-        print("\n--- Random Quote ---")
-        print(border)
+        print("\n=== Random Quote ===")
+        print(border_top)
         for line in wrapped_lines:
-            print(f"|  {line:<{text_width}}  |")
-        print(border)
+            # print(f"|  {line:<{text_width}}  |")
+            print(f"│  {line:<{text_width}}  │") # Add 2 spaces padding
+
+        print(border_bottom)
 
         # Print count info
         print(f"\nTotal quotes found in database '{selected_db_file}': {count}")
